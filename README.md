@@ -76,7 +76,7 @@ To make a new project anytime you like.
 ## \*Nix
 
 ```cli
-git clone --depth=1 git@github.com:JamesWoolfenden/tf-scaffold.git scaffold| rm !$/.git -rf
+git clone --depth=1 git@github.com:JamesWoolfenden/tf-scaffold.git PROJECT_NAME | rm !$/.git -rf
 ```
 
 Or you add this to your ~/.bashrc
